@@ -23,12 +23,12 @@ Task Summery :
 
 
 End Point : 
-Get request on your local host "http://localhost:4200/": for get all posts 
-Post request on your local host "http://localhost:4200/add-post": for adding post with the request data  
-Delete request on your local host "http://localhost:4200/delete-post/:id": for delete one post with the post ID 
-Get request on your local host "http://localhost:4200/get-post/:id": for get one post
-Put request on your local host "http://localhost:4200/update-post/:id": for update the post with the data updated 
-Post request on your local host "http://localhost:4200/add-comment": to add comment 
-Delete request on your local host "http://localhost:4200/delete-comment/:id": for delete one comment 
-Get request on your local host "http://localhost:4200/get-comments/:id":  for get all comments
+- Get request on your local host "http://localhost:4200/": for get all posts 
+- Post request on your local host "http://localhost:4200/add-post": for adding post with the request data  
+- Delete request on your local host "http://localhost:4200/delete-post/:id": for delete one post with the post ID 
+- Get request on your local host "http://localhost:4200/get-post/:id": for get one post
+- Put request on your local host "http://localhost:4200/update-post/:id": for update the post with the data updated 
+- Post request on your local host "http://localhost:4200/add-comment": to add comment 
+- Delete request on your local host "http://localhost:4200/delete-comment/:id": for delete one comment 
+- Get request on your local host "http://localhost:4200/get-comments/:id":  for get all comments
 
